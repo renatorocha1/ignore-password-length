@@ -2,6 +2,12 @@
 en:
   ignore_password_length:
     enabled: "Ignore password length validation plugin enabled"
+    site_settings:
+      min_password_length:
+        client: true
+        default: 1
+        min: 1
+        max: 500
   site_settings:
     min_password_length:
       client: true
