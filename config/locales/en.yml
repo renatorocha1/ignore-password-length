@@ -1,0 +1,4 @@
+# plugins/ignore_password_length/config/locales/en.yml
+en:
+  ignore_password_length:
+    enabled: "Ignore password length validation plugin enabled"

@@ -1,0 +1,3 @@
+pt-BR:
+  ignore_password_length:
+    enabled: "Ignore password length validation plugin enabled"
